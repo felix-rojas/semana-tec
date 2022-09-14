@@ -1,0 +1,14 @@
+snake.py:12:1: F403 'from turtle import *' used; unable to detect undefined names
+snake.py:39:9: F405 'update' may be undefined, or defined from star imports: turtle
+snake.py:51:5: F405 'clear' may be undefined, or defined from star imports: turtle
+snake.py:57:5: F405 'update' may be undefined, or defined from star imports: turtle
+snake.py:58:5: F405 'ontimer' may be undefined, or defined from star imports: turtle
+snake.py:61:1: F405 'setup' may be undefined, or defined from star imports: turtle
+snake.py:62:1: F405 'hideturtle' may be undefined, or defined from star imports: turtle
+snake.py:63:1: F405 'tracer' may be undefined, or defined from star imports: turtle
+snake.py:64:1: F405 'listen' may be undefined, or defined from star imports: turtle
+snake.py:65:1: F405 'onkey' may be undefined, or defined from star imports: turtle
+snake.py:66:1: F405 'onkey' may be undefined, or defined from star imports: turtle
+snake.py:67:1: F405 'onkey' may be undefined, or defined from star imports: turtle
+snake.py:68:1: F405 'onkey' may be undefined, or defined from star imports: turtle
+snake.py:70:1: F405 'done' may be undefined, or defined from star imports: turtle
